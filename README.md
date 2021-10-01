@@ -10,10 +10,6 @@
 
 ---
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-
-
 ### Connect with me 📝
 
 [<img align="left" alt="bilgehangecici | Youtube" height="30px" src="https://image.flaticon.com/icons/png/512/1384/1384060.png" />][Youtube]
