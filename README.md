@@ -6,7 +6,7 @@
 - 👨‍💻 I’m doing my B.Tech from College of Engineering Trivandrum.
 - 📚 I love app development with Flutter and i'm learning django now 😅
 - 💪🏼 I make youtube videos in my free time.
-- ⚡ Fun fact: I love to solve Rubik's cubes 🎱.
+- ⚡ Fun fact: I love pizza🎱.
 
 ---
 
