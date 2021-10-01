@@ -80,5 +80,5 @@
 
 [instagram]: https://www.instagram.com/_navneet.s_/
 [linkedin]: https://www.linkedin.com/in/navneeth-s-7a75241b9/
-[Spotify]: https://open.spotify.com/collection/tracks
+[Spotify]: https://open.spotify.com/user/wtaidxjrs96zvi6t6u93u4muj/collection/tracks
 [Youtube]:https://www.youtube.com/channel/UCMTndaPF2-XZBVbrdI3ANig
