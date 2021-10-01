@@ -13,14 +13,12 @@
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=weberstills&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
 ### Connect with me 📝
 
 [<img align="left" alt="bilgehangecici | Youtube" height="30px" src="https://image.flaticon.com/icons/png/512/1384/1384060.png" />][Youtube]
 [<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>][linkedin]
 [<img align="left" alt="bilgehangecici | Instagram" height="40px"  src="https://img.icons8.com/color/48/000000/instagram-new.png" />][instagram]
-[<img align="left" alt="bilgehangecici | Spotify" height="30px" src="https://cdn-icons-png.flaticon.com/512/174/174872.png" />][Spotify]
 
 
 <br />
