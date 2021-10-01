@@ -12,12 +12,6 @@
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
-<!-- ### Spotify Playing 🎧
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/wtaidxjrs96zvi6t6u93u4muj) -->
-
-
----
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=weberstills&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
@@ -80,6 +74,5 @@
 
 
 [instagram]: https://www.instagram.com/_navneet.s_/
-[linkedin]: https://www.linkedin.com/in/navneeth-s-7a75241b9/
-<!-- [Spotify]: https://open.spotify.com/tracks/wtaidxjrs96zvi6t6u93u4muj -->
+[linkedin]: https://www.linkedin.com/in/navneeth-s-7a75241b9
 [Youtube]:https://www.youtube.com/channel/UCMTndaPF2-XZBVbrdI3ANig
