@@ -39,7 +39,7 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff)
 ![C++](http://img.shields.io/badge/-C++-A8B9CC?style=flat-square&logo=c++&logoColor=ffffff)
 ![Java](https://img.shields.io/badge/-Java-61DAFB?style=flat-square&logo=java&logoColor=ffffff)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=darkgreen)
 ![C](https://img.shields.io/badge/-C-%23F05032?style=flat-square&logo=c&logoColor=%23ffffff)
 ![Dart](https://img.shields.io/badge/-Dart-61DAFB?style=flat-square&logo=dart&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
