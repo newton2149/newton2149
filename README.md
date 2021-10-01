@@ -1,4 +1,4 @@
-# Hi there, I'm Navneeth
+# Hi there, I'm Navneeth S
 
 
 ## I'm an Engineering Student  
@@ -81,5 +81,5 @@
 
 [instagram]: https://www.instagram.com/_navneet.s_/
 [linkedin]: https://www.linkedin.com/in/navneeth-s-7a75241b9/
-[Spotify]: https://open.spotify.com/user/wtaidxjrs96zvi6t6u93u4muj/collection/tracks
+[Spotify]: https://open.spotify.com/tracks/wtaidxjrs96zvi6t6u93u4muj
 [Youtube]:https://www.youtube.com/channel/UCMTndaPF2-XZBVbrdI3ANig
