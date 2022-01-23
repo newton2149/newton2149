@@ -37,6 +37,7 @@
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![React](https://img.shields.io/badge/-React-%23E44D27?style=flat-square&logo=react&logoColor=ffffff)
+![ROS](https://img.shields.io/badge/-ROS-%23E44D27?style=flat-square&logo=react&logoColor=ffffff)
 
 <br/>
 
