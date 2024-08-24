@@ -3,16 +3,13 @@
 
 ## I'm an Engineering Student  
 
-- 👨‍💻 I’m doing my B.Tech from College of Engineering Trivandrum.
-- 📚 I love app development with Flutter and I'm learning Ai/ML now 😅
-- 📺 I make youtube videos in my free time.
+- 👨‍💻 I have completed my B.Tech from College of Engineering Trivandrum.
+- 📚 I eat TensorFlow for breakfast 🥞🍳☕️.
 - ⚡ Fun fact: I love pizza 🍕.
 
 ---
 
 ### Connect with me 📝
-
-[<img align="left" alt="bilgehangecici | Youtube" height="30px" src="https://image.flaticon.com/icons/png/512/1384/1384060.png" />][Youtube]
 [<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>][linkedin]
 [<img align="left" alt="bilgehangecici | Instagram" height="40px"  src="https://img.icons8.com/color/48/000000/instagram-new.png" />][instagram]
 
@@ -32,8 +29,6 @@
 ![Dart](https://img.shields.io/badge/-Dart-61DAFB?style=flat-square&logo=dart&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![React](https://img.shields.io/badge/-React-%23E44D27?style=flat-square&logo=react&logoColor=ffffff)
@@ -64,10 +59,9 @@
 <br />
 
 ---
-  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=newton2149&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
 [instagram]: https://www.instagram.com/_navneet.s_/
-[linkedin]: https://www.linkedin.com/in/navneeth-s-7a75241b9
-[Youtube]:https://www.youtube.com/channel/UCMTndaPF2-XZBVbrdI3ANig
+[linkedin]: https://www.linkedin.com/in/navneeth2002
+
